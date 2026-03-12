@@ -215,14 +215,14 @@
     "explanation": "Use past tense for past actions. (Pattern set 2)",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "東京は人が多いです、きれいです。",
     "correct": "東京は人が多くて、きれいです。",
     "explanation": "Use て-form to connect clauses. (Pattern set 2)",
     "id": 28,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

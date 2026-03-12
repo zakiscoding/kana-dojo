@@ -825,7 +825,7 @@
     "jlpt": "N4",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "店員さんにおすすめの料理を聞いてみた。",
@@ -833,7 +833,7 @@
     "english": "I asked the staff for recommended dishes.",
     "jlpt": "N4",
     "id": 93,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
